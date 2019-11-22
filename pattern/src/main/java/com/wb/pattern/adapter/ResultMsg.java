@@ -1,7 +1,7 @@
 package com.wb.pattern.adapter;
 
 /**
- * @author wangbo
+ * @author wangbo master分支
  * @since 2019/11/6 14:19
  */
 public class ResultMsg {
