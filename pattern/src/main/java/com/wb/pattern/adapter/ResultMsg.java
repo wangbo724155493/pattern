@@ -1,7 +1,7 @@
 package com.wb.pattern.adapter;
 
 /**
- * @author wangbo master分支  啊手动阀
+ * @author wangbo master分支  啊手动阀123
  * @since 2019/11/6 14:19
  */
 public class ResultMsg {
