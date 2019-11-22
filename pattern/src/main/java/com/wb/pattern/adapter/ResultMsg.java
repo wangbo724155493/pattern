@@ -5,7 +5,7 @@ package com.wb.pattern.adapter;
  * @since 2019/11/6 14:19
  */
 public class ResultMsg {
-    private String code;
+    private String code;;;;
     private String msg;
     private Object data;
 
