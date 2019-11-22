@@ -1,11 +1,11 @@
 package com.wb.pattern.adapter;
 
 /**
- * @author wangbo test分支提交
+ * @author wangbo master分支
  * @since 2019/11/6 14:19
  */
 public class ResultMsg {
-    private String code;
+    private String code;;;;
     private String msg;
     private Object data;
 

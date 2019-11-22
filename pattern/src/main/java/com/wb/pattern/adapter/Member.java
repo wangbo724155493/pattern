@@ -1,7 +1,11 @@
 package com.wb.pattern.adapter;
 
 /**
+<<<<<<< HEAD
  * @author wangbo阿斯顿发射点旅客发送量看风景ask了解对方阿斯蒂芬啊舍得离开房间ask劳动纠纷啊士大夫立刻就阿桑
+=======
+ * @author wangbo
+>>>>>>> f967372f1a93bed31a8018879b0b71e85eeac9cd
  * @since 2019/11/6 14:25
  */
 public class Member {
